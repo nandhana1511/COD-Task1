@@ -1,7 +1,11 @@
 Name: Nandhana Suresh Poovathingal
+
 ID: ICOD6802
+
 Domain: Web Development
+
 Mentor: Sravani Gouni
+
 Description: The to-do list website provides users with a simple yet effective platform for organizing tasks and managing their daily activities. With a clean and intuitive interface, users can easily add, complete, and remove tasks, helping them stay organized and focused on their goals.
 Upon accessing the website, users are greeted with a visually appealing layout featuring a gradient background that creates a welcoming atmosphere. The design is responsive, ensuring a seamless experience across various devices, from desktops to mobile phones.
 At the heart of the website is the task management functionality. Users can effortlessly add new tasks using the input field provided, ensuring no detail is overlooked. The ability to trim task text helps maintain cleanliness and readability. If a user attempts to add an empty task, they are promptly alerted, preventing unintentional submissions.
