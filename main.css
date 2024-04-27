@@ -1,0 +1,79 @@
+body{
+    background: linear-gradient(100deg,rgba(58, 1, 102, 0.781),rgb(163, 3, 150));
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width:70%;
+    margin: 5% 12%;
+    padding: 20px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+}
+
+.heading, p{
+    color: rgb(66, 1, 96);
+    margin: 2% 32%;
+    display: flex;
+    align-items: center;
+}
+
+img{
+    height: 10%;
+    width: 20%;
+    margin: 3%;
+}
+
+#taskInput{
+    margin: 1%;
+    margin-left: 30%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 1%;
+    outline: none;
+    color: black;
+}
+
+
+
+button{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    margin: 1%;
+    padding: 1%;
+    cursor: pointer;
+}
+
+ul li {
+    list-style-type: none;
+    padding: 1%;
+    margin: 1%;
+    margin-left: 30%;   
+}
+
+delete-button {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 1%;
+    cursor: pointer;
+    margin-left: 10%;
+}
+
+delete-button:hover {
+    background-color: darkred;
+}
+
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%; 
+        margin: 2%;
+    }
+}
